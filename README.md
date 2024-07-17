@@ -4,11 +4,11 @@ Welcome to **Fract'ol Wonderland**, where the magic of mathematics meets the bea
 
 ## 🎨 Features
 
--**Classic Fractals**: Explore famous fractals like the Mandelbrot and Julia sets.
--**Exotic Discoveries**: Delve into unique creations like the Nova and Tricorn fractals.
--**Interactive Zooming**: Dive deep into the fractal depths with smooth, continuous zoom.
--**Color Explosions**: Experience the dynamic coloring of fractals which brings them to vivid life.
--**Responsive Controls**: Navigate through the fractal landscapes with intuitive keyboard and mouse controls.
+- **Classic Fractals**: Explore famous fractals like the Mandelbrot and Julia sets.
+- **Exotic Discoveries**: Delve into unique creations like the Nova and Tricorn fractals.
+- **Interactive Zooming**: Dive deep into the fractal depths with smooth, continuous zoom.
+- **Color Explosions**: Experience the dynamic coloring of fractals which brings them to vivid life.
+- **Responsive Controls**: Navigate through the fractal landscapes with intuitive keyboard and mouse controls.
 
 ## 🚀 Getting Started
 
