@@ -12,10 +12,10 @@ Welcome to **Fract'ol Wonderland**, where the magic of mathematics meets the bea
 
 ## 🚀 Getting Started
 
-Prerequisites
--A C compiler (GCC recommended)
--MiniLibX (included)
--libft (our custom utility library)
+Prerequisites:
+- A C compiler (GCC recommended).
+- MiniLibX (included).
+- libft (our custom utility library).
 
 ## 💾 Installation
 
@@ -35,12 +35,12 @@ Supported fractal types: mandelbrot, julia, nova, tricorn.
 
 ## 🕹️ Controls
 
--*Arrow Keys/WASD*: Move around the fractal.
--*Mouse Wheel/+/— Keys*: Zoom in and out.
--*Space*: Change color schemes.
--*1-4 Keys*: Switch between fractal types.
--*Keys H/I/J/K/L/M/O/P*: Switch different Julias
--*ESC*: Exit the program.
+- **Arrow Keys/WASD**: Move around the fractal.
+- **Mouse Wheel/+/— Keys**: Zoom in and out.
+- **Space**: Change color schemes.
+- **1-4 Keys**: Switch between fractal types.
+- **Keys H/I/J/K/L/M/O/P**: Switch different Julias
+- **ESC**: Exit the program.
 
 ## 🌟 Customizing Fractals
 
